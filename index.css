@@ -1,0 +1,29 @@
+/* .container{
+    height: 150px;
+    width: 100vw;
+    background-color: yellow;
+} */
+ .header{
+    /* border: 2px solid black; */
+    height: 100px;
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* background-color: black; */
+ }
+.logo{
+    /* background-color: 2px solid black; */
+    height: 150px;
+    width: 150px;
+}
+.searchinp{
+    height: 40px;
+    width: 200px;
+}
+button{
+    height:45px;
+}
+.iconbutt{
+    height: 100px;
+}
